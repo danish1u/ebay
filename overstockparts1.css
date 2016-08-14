@@ -203,7 +203,7 @@
         #esd-menu ul li a:hover {
             color: #00FFFF;
             text-decoration: none;
-            background: url("menu_hover.png") no-repeat center bottom;
+            background: url("http://i61.photobucket.com/albums/h76/Nimo18/menu_hover_zpse2xsyhwo.png?t=1471078376") no-repeat center bottom;
         }
 
         .esd-back {
@@ -245,7 +245,7 @@
         .sc_search .inp_srh {
             width: 199px;
             margin-left: 16px;
-            height: 19px;
+            height: 31px;
             padding: 5px;
             background: url("http://www.360save.net/toolsempire/images/search_bg.jpg") no-repeat;
             background-position: top: 2px;
@@ -488,13 +488,13 @@
 
         #title {
             background: url("http://i61.photobucket.com/albums/h76/Nimo18/aqaq_zpsy7frbs8z.png?t=1471074142")no-repeat;
-            -webkit-margin-before: -1em;
             height: 45px;
             color: #ece6e6;
             font-family: 'Lato', sans-serif;
             font-size: 1.5em;
             text-align: center;
-            line-height: 2em;
+            line-height: 1.5em;
+            margin-top:-27px;
         }
         @import url("https://fonts.googleapis.com/css?family=Lato");
         .discription {
