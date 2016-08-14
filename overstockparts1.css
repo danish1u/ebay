@@ -228,7 +228,7 @@
             left: 0;
             right: 0;
             background: url("https://s-media-cache-ak0.pinimg.com/564x/95/fe/ec/95feec4033962e4d9b80d7dd8b8857f5.jpg");
-            opacity: 0.5;
+            opacity: 0.7;
             width: 100%;
             height: 100%;
         }
@@ -305,7 +305,7 @@
         }
 
         #esd-cathead {
-            background: url("13.png") no-repeat left top;
+            background: url("http://i61.photobucket.com/albums/h76/Nimo18/13_zpsfgmyz0fu.png?t=1471074276") no-repeat left top;
             color: #fff;
             font-family: 'Ledger', serif;
             font-size: 20px;
@@ -487,7 +487,7 @@
         }
 
         #title {
-            background: url("aqaq.png")no-repeat;
+            background: url("http://i61.photobucket.com/albums/h76/Nimo18/aqaq_zpsy7frbs8z.png?t=1471074142")no-repeat;
             -webkit-margin-before: -1em;
             height: 45px;
             color: #ece6e6;
@@ -540,7 +540,7 @@ text-align: left;
 height: 40px;
 margin-top: 15px;
 display: block;
-background: url("12334.jpg") no-repeat 0 1px;
+background: url("http://i61.photobucket.com/albums/h76/Nimo18/12334_zpshdlmzso2.jpg?t=1471074142") no-repeat 0 1px;
 }
 /*---tabs---*/
 
