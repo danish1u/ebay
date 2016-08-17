@@ -132,7 +132,7 @@ body {
     background: white;
     width: 1200px;
     margin: auto;
-    height: 2400px;
+    height: auto;
 }
 #esd-menu {
     width: auto;
@@ -617,7 +617,6 @@ label .fa {
     font-size: 13px;
 }
 #esd-shipping {
-    float: right;
     margin-top: 20px;
     margin-bottom: 20px;
 }
