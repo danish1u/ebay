@@ -629,3 +629,62 @@ label .fa {
     margin-left: 237px;
     border: 1px grey solid;
 }
+    #footer_menue {
+            width: auto;
+            float: left;
+            margin: 32px 0 0 0;
+            padding: 0;
+            background: none;
+            padding-right: 17px;
+            margin-bottom: -44px;
+            position: relative;
+            z-index: 1;
+        }
+    }
+    #footer_menue ul {
+        list-style: none;
+        width: auto;
+        margin: 0 auto;
+        padding: 0;
+        display: table;
+        position: relative;
+    }
+    #footer_menue ul li {
+        margin: 0px;
+        padding: 0px;
+        list-style: none;
+        float: left;
+        border-right: 0.5px solid gray;
+        height: 15px;
+    }
+    #footer_menue ul li a {
+        margin: 0 10px;
+        padding: 0 0 7px 0;
+        list-style: none;
+        display: block;
+        font-family: 'Yanone Kaffeesatz', sans-serif;
+        color: gray;
+        text-decoration: none;
+        font-size: 13px;
+        font-weight: 300;
+        transition: all 0.5s ease-out;
+        background-position: center top;
+        letter-spacing: 1px;
+    }
+    #footer_menue ul li a:hover {
+        color: #fbb520
+    }
+    .copyright {
+        font-family: 'Yanone Kaffeesatz', sans-serif;
+        color: gray;
+        margin-top: -44px;
+        padding-left: 926px;
+        font-size: 11px;
+        font-weight: inherit;
+    }
+    .esd-footer{
+      clear: both;
+overflow: hidden;
+width: 1200px;
+height: 64px;"
+    }
