@@ -84,7 +84,7 @@ body {
 	margin: 5px;
 	padding: 0px;
 	float: right;
-	background-image: url(../images/maginfy.png);
+	background-image: url("http://www.efusionworld.com/estore/salmaqualitygold/store/images/maginfy.png");
 	background-repeat: no-repeat;
 	background-position:center center;
 	border:none;
@@ -142,7 +142,7 @@ body {
 	padding: 0px;
 	margin: 5px 0 0 0;
 	float: left;
-	background-image:url(../images/menu-line.png);
+	background-image:url("http://www.efusionworld.com/estore/salmaqualitygold/store/images/menu-line.png");
 	background-repeat:no-repeat;
 	background-position:center top;
 
@@ -551,7 +551,7 @@ ul#efusionmenu li a:hover {
 	margin:38px 225px 0 0;
 	padding: 0px;
 	float: right;
-	background-image: url(../images/search.png);
+	background-image: url("http://www.efusionworld.com/estore/salmaqualitygold/store/images/search.png");
 	background-repeat: no-repeat;
 	background-position:center center;
 	border:none;
@@ -675,7 +675,7 @@ ul#efusionmenu li a:hover {
 }
 #efusion-newsletter2 input.btn-signup2{
 	background-color:transparent;
-	background-image: url(../images/signup.png);
+	background-image: url("http://www.efusionworld.com/estore/salmaqualitygold/store/images/signup.png");
 	display: block;
 	border: none 0px;
 	cursor: pointer;
@@ -692,7 +692,7 @@ ul#efusionmenu li a:hover {
 	padding: 0px;
 	margin:0;
 	float:left;
-	background-image:url(../images/payment.png);
+	background-image:url("http://i61.photobucket.com/albums/h76/Nimo18/paypal%202_zpse3ghr2yn.png?t=1472599558");
 	background-repeat:no-repeat;
 	background-position:center center;
 }
