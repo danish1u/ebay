@@ -7,7 +7,7 @@ document.writeln("  ");
 document.writeln("  ");
 document.writeln(" <!--STORE SEARCH //STARTS--> ");
 document.writeln(" <div id=\"efusion-search\"> ");
-document.writeln("           <form action=\"/Salma-Jewelry-Of-New-York/_i.html\" style=\"display: inline;\" method=\"get\" name=\"Search\"> ");
+document.writeln("           <form action=\"/The-Whole-Shebang-New-York/_i.html\" style=\"display: inline;\" method=\"get\" name=\"Search\"> ");
 document.writeln("             <div id=\"efusion-input\"> ");
 document.writeln("               <input name=\"_nkw\" type=\"text\" class=\"v4sbox\" onclick=\"this.value='';\" value=\"Store Search\" size=\"13\" maxlength=\"300\" /> ");
 document.writeln("             </div> ");
