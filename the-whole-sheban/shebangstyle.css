@@ -6,14 +6,14 @@ body {
 	margin:0;
 }
 /*---HEADER------>START*/
-.dev-clear { clear: both; }
-.dev-background {
+.efusion-clear { clear: both; }
+.efusion-background {
 	width: 100%;
 	padding: 0px;
 	margin:0 auto;
 	background-color:#000;
 }
-.dev-wrapcen {
+.efusion-wrapcen {
 	width: 100%;
 	padding:0;
 	margin:0 auto;
@@ -24,21 +24,21 @@ body {
 	background-color:#000;
 	float:left;
 }
-.dev-content {
+.efusion-content {
 	width: 1000px;
 	margin:0 auto;
 	background-image: none;
 	padding:0;
 }
-#dev-header {
+#efusion-header {
 	width:1000px;
 	padding:0;
 	margin:0 auto;
 }
 
-#dev-header img { border:none; }
+#efusion-header img { border:none; }
 
-#dev-header #dev-logo {
+#efusion-header #efusion-logo {
 	width: 237px;
 	height: 60px;
 	padding: 0px;
@@ -47,7 +47,7 @@ body {
 }
 
 /*---HEADER SERCH BOX------>START*/
-#dev-search {
+#efusion-search {
 	width: 230px;
 	height:28px;
 	display: block;
@@ -58,14 +58,14 @@ body {
 	background-repeat:no-repeat;
 	background-position:center right;
 }
-#dev-search #dev-input {
+#efusion-search #efusion-input {
 	width: 200px;
 	height:28px;
 	margin: 0px;
 	float: left;
 	padding: 0px;
 }
-#dev-search #dev-input .v4sbox {
+#efusion-search #efusion-input .v4sbox {
 	color: #6b6b6b;
 	font-family: 'Lato', sans-serif;
 	font-size: 14px;
@@ -78,7 +78,7 @@ body {
 	border:none;
 	background-color: transparent;
 }
-#dev-search #dev-submit {
+#efusion-search #efusion-submit {
 	width: 20px;
 	height: 17px;
 	margin: 5px;
@@ -89,7 +89,7 @@ body {
 	background-position:center center;
 	border:none;
 }
-#dev-search #dev-submit input.btn-search {
+#efusion-search #efusion-submit input.btn-search {
 	width:20px;
 	height:17px;
 	background-color:transparent;
@@ -100,7 +100,7 @@ body {
 /*---HEADER SERCH BOX------>END*/
 
 /*---HEADER NAVIGATION------>STARTS*/
-#dev-nav {
+#efusion-nav {
 	width: auto;
 	height:30px;
 	padding:0;
@@ -108,14 +108,14 @@ body {
 	float:right;
 	clear:both;
 }
-#dev-nav ul{
+#efusion-nav ul{
 	width: auto;
 	height:30px;
 	padding:0;
 	margin:0;
 	list-style:none;
 }
-#dev-nav ul li{
+#efusion-nav ul li{
 	font-family: 'Lato', sans-serif;
 	font-size:14px;
 	color:#6b6b6b;
@@ -125,18 +125,18 @@ body {
 	padding:0;
 	margin:0 0 0 32px;
 }
-#dev-nav ul li a{
+#efusion-nav ul li a{
 	text-decoration:none;
 	color:#6b6b6b;
 }
-#dev-nav ul li a:hover{
+#efusion-nav ul li a:hover{
 	text-decoration:underline;
 	color:#FFF;
 }
 /*---HEADER NAVIGATION------>ENDS*/
 
 /*---HEADER MENU------>STARTS*/
-#dev-menu {
+#efusion-menu {
 	width: 1000px;
 	height: 40px;
 	padding: 0px;
@@ -147,17 +147,17 @@ body {
 	background-position:center top;
 
 }
-#dev-menu-holder {
+#efusion-menu-holder {
 	display: table;   /* Allow the centering to work */
 	margin: 0 auto;
 }
-ul#devmenu {
+ul#efusionmenu {
 	padding:0;
 	margin:0 auto;
 	list-style:none;
 	width:inherit;
 }
-ul#devmenu li {
+ul#efusionmenu li {
 	height:40px;
 	line-height:40px;
 	display:inline-block;
@@ -170,10 +170,10 @@ ul#devmenu li {
 	text-transform:uppercase;
 	color:#FFF;
 }
-ul#devmenu li.showall a{
+ul#efusionmenu li.showall a{
 	color:#ffa800;
 }
-ul#devmenu li a {
+ul#efusionmenu li a {
 	text-decoration:none;
 	color:#FFF;
 	-webkit-transition: all .2s ease-in-out;
@@ -182,7 +182,7 @@ ul#devmenu li a {
 	-o-transition: all .2s ease-in-out;
 	transition: all .2s ease-in-out
 }
-ul#devmenu li a:hover {
+ul#efusionmenu li a:hover {
 	text-decoration:none;
 	color:#ff002a;
 }
@@ -208,7 +208,7 @@ ul#devmenu li a:hover {
 
 
 /*---LEFT COLUMN STARTS->*/
-.dev-cathead {
+.efusion-cathead {
 	width:215px;
 	height:49px;
 	line-height:49px;
@@ -225,20 +225,20 @@ ul#devmenu li a:hover {
 	background-repeat:no-repeat;
 	background-position:10px center;
 }
-#dev-categories  {
+#efusion-categories  {
 	width: 215px;
 	text-align: left;
 	margin:0 0 12px 0;
 	padding:0;
 	background-color:#ff002a;
 }
-#dev-categories ul.lev1 {
+#efusion-categories ul.lev1 {
 	list-style-type: none;
 	width: 215px;
 	padding: 0px;
 	margin: 0;
 }
-#dev-categories ul.lev1 li {
+#efusion-categories ul.lev1 li {
 	line-height: 30px;
 	padding: 0px;
 	height: 30px;
@@ -253,11 +253,11 @@ ul#devmenu li a:hover {
 	overflow:hidden;
 	text-transform:uppercase;
 }
-#dev-categories  ul.lev1  li.lastiteam {
+#efusion-categories  ul.lev1  li.lastiteam {
 	margin: 0px;
 	padding: 0px;
 }
-#dev-categories ul.lev1 li a {
+#efusion-categories ul.lev1 li a {
 	width: 215px;
 	height: 30px;
 	line-height: 30px;
@@ -270,7 +270,7 @@ ul#devmenu li a:hover {
 	text-decoration: none;
 	padding: 0px;
 }
-#dev-categories ul.lev1 li a:hover {
+#efusion-categories ul.lev1 li a:hover {
 	width: 215px;
 	height: 30px;
 	line-height: 30px;
@@ -283,7 +283,7 @@ ul#devmenu li a:hover {
 	text-decoration: underline;
 	padding: 0px;
 }
-#dev-categories ul.lev1 li span {
+#efusion-categories ul.lev1 li span {
 	width: 215px;
 	height: 30px;
 	line-height: 30px;
@@ -296,13 +296,13 @@ ul#devmenu li a:hover {
 	text-decoration: underline;
 	padding: 0px;
 }
-#dev-categories ul.lev2 {
+#efusion-categories ul.lev2 {
 	list-style:none;
 	padding: 0px;
 	width: 215px;
 	margin:0;
 }
-#dev-categories ul.lev2 li {
+#efusion-categories ul.lev2 li {
 	background-image: none;
 	padding: 0px;
 	margin: 0px;
@@ -313,7 +313,7 @@ ul#devmenu li a:hover {
 	background-position:29px center;
 	overflow:hidden;
 }
-#dev-categories ul.lev2 li a {
+#efusion-categories ul.lev2 li a {
 	color: #000000;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 13px;
@@ -325,7 +325,7 @@ ul#devmenu li a:hover {
 	padding: 0px;
 	line-height: 30px;
 }
-#dev-categories ul.lev2 li a:hover {
+#efusion-categories ul.lev2 li a:hover {
 	color: #000000;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 13px;
@@ -337,7 +337,7 @@ ul#devmenu li a:hover {
 	padding: 0px;
 	line-height: 30px;
 }
-#dev-categories ul.lev2 li span {
+#efusion-categories ul.lev2 li span {
 	color: #000000;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 13px;
@@ -349,13 +349,13 @@ ul#devmenu li a:hover {
 	padding: 0px;
 	line-height: 30px;
 }
-#dev-categories ul.lev3 {
+#efusion-categories ul.lev3 {
 	list-style:none;
 	padding: 0px;
 	width: 215px;
 	margin:0;
 }
-#dev-categories ul.lev3 li {
+#efusion-categories ul.lev3 li {
 	background-image: none;
 	padding: 0px;
 	margin: 0px;
@@ -366,7 +366,7 @@ ul#devmenu li a:hover {
 	background-position:39px center;
 	overflow:hidden;
 }
-#dev-categories ul.lev3 li a {
+#efusion-categories ul.lev3 li a {
 	color: #000000;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 11px;
@@ -378,7 +378,7 @@ ul#devmenu li a:hover {
 	padding: 0px;
 	line-height: 30px;
 }
-#dev-categories ul.lev3 li a:hover {
+#efusion-categories ul.lev3 li a:hover {
 	color: #000000;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 11px;
@@ -390,7 +390,7 @@ ul#devmenu li a:hover {
 	padding: 0px;
 	line-height: 30px;
 }
-#dev-categories ul.lev3 li span {
+#efusion-categories ul.lev3 li span {
 	color: #000000;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 11px;
@@ -403,7 +403,7 @@ ul#devmenu li a:hover {
 	line-height: 30px;}
 
 
-#dev-paymenticon {
+#efusion-paymenticon {
 	width:215px;
 	height:178px;
 	text-align:center;
@@ -413,7 +413,7 @@ ul#devmenu li a:hover {
 	background-repeat:no-repeat;
 	background-position:center center;
 }
-#dev-sale {
+#efusion-sale {
 	width:215px;
 	height:138px;
 	text-align:center;
@@ -423,7 +423,7 @@ ul#devmenu li a:hover {
 	background-repeat:no-repeat;
 	background-position:center center;
 }
-#dev-thanks{
+#efusion-thanks{
 	width:215px;
 	height:125px;
 	text-align:center;
@@ -451,20 +451,20 @@ ul#devmenu li a:hover {
 /*---LEFT COLUMN ENDS->*/
 
 /*---FOOTER->START*/
-.dev-wrapcens {
+.efusion-wrapcens {
 	width: 100%;
 	height:338px;
 	background-color:#000000;
 	padding:0;
 	margin:0;
 }
-#dev-footer {
+#efusion-footer {
 	width: 1000px;
 	height: 338px;
 	padding: 0px;
 	margin:0 auto;
 }
-#dev-footernav-holder {
+#efusion-footernav-holder {
 	display: table;   /* Allow the centering to work */
 	margin: 0 auto;
 }
@@ -478,7 +478,7 @@ ul#devmenu li a:hover {
 	background-repeat:no-repeat;
 	background-position:center top;
 }
-#dev-copy {
+#efusion-copy {
 	width:100%;
 	padding:0;
 	margin:75px 0 0 0;
@@ -488,7 +488,7 @@ ul#devmenu li a:hover {
 	clear:both;
 	color:#919191;
 }
-#dev-designedby {
+#efusion-designedby {
 	width:100%;
 	padding:0;
 	margin:0;
@@ -498,14 +498,14 @@ ul#devmenu li a:hover {
 	font-size:11px;
 	color:#919191;
 }
-#devfooterlogo {
+#efusionfooterlogo {
 	width:104px;
 	height:17px;
 	padding:12px 0 0 0;
 	margin:10px auto 0 auto;
 	text-align:center
 }
-#devfooterlogo img {
+#efusionfooterlogo img {
 	border:none;
 }
 #widesearchholder {
@@ -523,7 +523,7 @@ ul#devmenu li a:hover {
 	padding:0;
 	margin:0 auto;
 }
-#widesearch #dev-input2 {
+#widesearch #efusion-input2 {
 	width: 435px;
 	height:44px;
 	margin:38px 0 0 225px;
@@ -532,7 +532,7 @@ ul#devmenu li a:hover {
 	background-color:#FFF;
 	border-radius:28px;
 }
-#widesearch #dev-input2 .v4sbox2 {
+#widesearch #efusion-input2 .v4sbox2 {
 	color: #8f8f8f;
 	font-family: 'Lato', sans-serif;
 	font-size: 21px;
@@ -545,7 +545,7 @@ ul#devmenu li a:hover {
 	border:none;
 	background-color: transparent;
 }
-#widesearch #dev-submit2 {
+#widesearch #efusion-submit2 {
 	width: 111px;
 	height: 44px;
 	margin:38px 225px 0 0;
@@ -556,7 +556,7 @@ ul#devmenu li a:hover {
 	background-position:center center;
 	border:none;
 }
-#widesearch #dev-submit2 input.btn-search2 {
+#widesearch #efusion-submit2 input.btn-search2 {
 	width:111px;
 	height:44px;
 	background-color:transparent;
@@ -634,14 +634,14 @@ ul#devmenu li a:hover {
 	text-decoration:underline;
 	color:#919191;
 }
-#dev-newsletter2 {
+#efusion-newsletter2 {
 	width: 188px;
 	height: 205px;
 	padding: 0px;
 	margin:15px 0 0 22px;
 	float:left;
 }
-#dev-newsletter2 #dev-text2 {
+#efusion-newsletter2 #efusion-text2 {
 	color: #919191;
 	font-family:Arial, Helvetica, sans-serif;
 	font-size: 12px;
@@ -659,11 +659,11 @@ ul#devmenu li a:hover {
 	padding: 0px;
 	line-height: 16px;
 }
-#dev-newsletter2 #dev-text2 p {
+#efusion-newsletter2 #efusion-text2 p {
 	padding: 0px;
 	margin: 0px;
 }
-#dev-newsletter2 #dev-signup2 {
+#efusion-newsletter2 #efusion-signup2 {
 	position: relative;
 	padding: 0px;
 	height: 17px;
@@ -673,7 +673,7 @@ ul#devmenu li a:hover {
 	margin: 0px;
 	background-color: transparent;
 }
-#dev-newsletter2 input.btn-signup2{
+#efusion-newsletter2 input.btn-signup2{
 	background-color:transparent;
 	background-image: url(../images/signup.png);
 	display: block;
