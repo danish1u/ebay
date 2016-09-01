@@ -14,16 +14,15 @@ body {
 
 }
 .efusion-wrapcen {
-	width: 1000px;
-	padding: 0;
-	margin: 0 auto;
-	text-align: center;
-	background-repeat: no-repeat;
-	background-position: center top;
-	background-color: #000;
-	float: left;
-	margin-left: 452px;
-}
+	width: 100%;
+	padding:0;
+	margin:0 auto;
+	text-align:center;
+	background-image:url(../images/top-glow.png);
+	background-repeat:no-repeat;
+	background-position:center top;
+	background-color:#000;
+	float:left;
 }
 .efusion-content {
 	width: 1000px;
@@ -46,7 +45,7 @@ body {
 	width: 237px;
 	height: 60px;
 	padding: 0px;
-	margin:24px 0 0 -13px;
+	margin:24px 0 0 8px;
 	float: left;
 }
 
@@ -61,7 +60,6 @@ body {
 	background-image:url("http://www.efusionworld.com/estore/salmaqualitygold/store/images/search-bg.jpg");
 	background-repeat:no-repeat;
 	background-position:center right;
-	    margin-right: 30px;
 }
 #efusion-search #efusion-input {
 	width: 200px;
@@ -112,7 +110,6 @@ body {
 	margin:15px 0 0 0;
 	float:right;
 	clear:both;
-	margin-right: 30px;
 }
 #efusion-nav ul{
 	width: auto;
@@ -446,7 +443,7 @@ ul#efusionmenu li a:hover {
 	padding-top: 0px;
 	padding-right: 0px;
 	padding-bottom: 0px;
-	padding-left: 23px;
+	padding-left: 0px;
 }
 #LeftPanel img { border: 0px; }
 #LeftPanel .ttl { display: none !important; }
@@ -753,7 +750,7 @@ ul#efusionmenu li a:hover {
 	margin: 7px;
 	display: inline-block;
 	float: left;
-	width: 223px;
+	width: 230px;
 	height:400px;
 	background-color:#FFF;
 
