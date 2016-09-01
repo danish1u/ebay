@@ -30,7 +30,7 @@ body {
 	background-image: none;
 	padding:0;
 }
-tbody{
+.efusion-wrapcen tbody{
 	background: black;
 }
 #efusion-header {
