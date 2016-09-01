@@ -1,5 +1,4 @@
 <!--
-
 document.writeln(" <div class=\"efusion-wrapcen\"> ");
 document.writeln(" <div id=\"efusion-header\"> ");
 document.writeln("      ");
@@ -73,10 +72,6 @@ document.writeln(" </div> ");
 document.writeln(" </div> ");
 document.writeln(" </div> ");
 document.writeln(" <!--STORE BANNER //ENDS--> ");
-
-
-
-
 document.writeln(" </div> ");
 document.writeln("  ");
  // -->
