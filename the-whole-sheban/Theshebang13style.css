@@ -11,24 +11,28 @@ body {
 	width: 100%;
 	padding: 0px;
 	margin:0 auto;
-	background-color:#000;
+
 }
 .efusion-wrapcen {
-	width: 100%;
-	padding:0;
-	margin:0 auto;
-	text-align:center;
-	background-image:url(../images/top-glow.png);
-	background-repeat:no-repeat;
-	background-position:center top;
-	background-color:#000;
-	float:left;
+	width: 1000px;
+	padding: 0;
+	margin: 0 auto;
+	text-align: center;
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-color: #000;
+	float: left;
+	margin-left: 452px;
+}
 }
 .efusion-content {
 	width: 1000px;
 	margin:0 auto;
 	background-image: none;
 	padding:0;
+}
+.efusion-content tbody{
+	background: black;
 }
 #efusion-header {
 	width:1000px;
@@ -42,7 +46,7 @@ body {
 	width: 237px;
 	height: 60px;
 	padding: 0px;
-	margin:24px 0 0 8px;
+	margin:24px 0 0 -13px;
 	float: left;
 }
 
@@ -57,6 +61,7 @@ body {
 	background-image:url("http://www.efusionworld.com/estore/salmaqualitygold/store/images/search-bg.jpg");
 	background-repeat:no-repeat;
 	background-position:center right;
+	    margin-right: 30px;
 }
 #efusion-search #efusion-input {
 	width: 200px;
@@ -107,6 +112,7 @@ body {
 	margin:15px 0 0 0;
 	float:right;
 	clear:both;
+	margin-right: 30px;
 }
 #efusion-nav ul{
 	width: auto;
@@ -440,7 +446,7 @@ ul#efusionmenu li a:hover {
 	padding-top: 0px;
 	padding-right: 0px;
 	padding-bottom: 0px;
-	padding-left: 0px;
+	padding-left: 23px;
 }
 #LeftPanel img { border: 0px; }
 #LeftPanel .ttl { display: none !important; }
@@ -747,7 +753,7 @@ ul#efusionmenu li a:hover {
 	margin: 7px;
 	display: inline-block;
 	float: left;
-	width: 230px;
+	width: 223px;
 	height:400px;
 	background-color:#FFF;
 
@@ -1264,3 +1270,75 @@ white-space: nowrap;
 background: #000;
 border: none!Important;
 }
+
+/*slider start*/
+.jssorb01 {
+		position: absolute;
+}
+
+.jssorb01 div,
+.jssorb01 div:hover,
+.jssorb01 .av {
+		position: absolute;
+		width: 12px;
+		height: 12px;
+		filter: alpha(opacity=70);
+		opacity: .7;
+		overflow: hidden;
+		cursor: pointer;
+		border: #000 1px solid;
+}
+
+.jssorb01 div {
+		background-color: gray;
+}
+
+.jssorb01 div:hover,
+.jssorb01 .av:hover {
+		background-color: #d3d3d3;
+}
+
+.jssorb01 .av {
+		background-color: #fff;
+}
+
+.jssorb01 .dn,
+.jssorb01 .dn:hover {
+		background-color: #555555;
+}
+
+.jssora05l,
+.jssora05r {
+		display: block;
+		position: absolute;
+		width: 40px;
+		height: 40px;
+		cursor: pointer;
+		background: url('img/a17.png') no-repeat;
+		overflow: hidden;
+}
+
+.jssora05l {
+		background-position: -10px -40px;
+}
+
+.jssora05r {
+		background-position: -70px -40px;
+}
+
+.jssora05l:hover {
+		background-position: -130px -40px;
+}
+
+.jssora05r:hover {
+		background-position: -190px -40px;
+}
+
+.jssora05l.jssora05ldn {
+		background-position: -250px -40px;
+}
+
+.jssora05r.jssora05rdn {
+		background-position: -310px -40px;
+}
+/* slider end*/
