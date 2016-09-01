@@ -1,4 +1,4 @@
-  jQuery(document).ready(function($) {
+        jQuery(document).ready(function($) {
 
             var jssor_1_SlideshowTransitions = [{
                 $Duration: 1200,
@@ -198,7 +198,7 @@
             function ScaleSlider() {
                 var refSize = jssor_1_slider.$Elmt.parentNode.clientWidth;
                 if (refSize) {
-                    refSize = Math.min(refSize, 1000);
+                    refSize = Math.min(refSize, 1045);
                     jssor_1_slider.$ScaleWidth(refSize);
                 } else {
                     window.setTimeout(ScaleSlider, 30);
