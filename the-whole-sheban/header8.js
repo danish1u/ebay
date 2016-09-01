@@ -2,7 +2,7 @@
 document.writeln(" <div class=\"efusion-wrapcen\"> ");
 document.writeln(" <div id=\"efusion-header\"> ");
 document.writeln("      ");
-document.writeln(" <div id=\"efusion-logo\"><a href=\"http://stores.ebay.com/The-Whole-Shebang-New-York\"><img src=\"http://i61.photobucket.com/albums/h76/Nimo18/new%20one1_zpsmhcqgpik.png\" width=\"180\" height=\"90\" /></a></div> ");
+document.writeln(" <div id=\"efusion-logo\"><a href=\"http://stores.ebay.com/The-Whole-Shebang-New-York\"><img src=\"http://i61.photobucket.com/albums/h76/Nimo18/new%20one1_zpsmhcqgpik.png\" width=\"155\" height=\"90\" /></a></div> ");
 document.writeln("  ");
 document.writeln("  ");
 document.writeln(" <!--STORE SEARCH //STARTS--> ");
@@ -49,7 +49,7 @@ document.writeln(" </div> ");
 document.writeln("  ");
 document.writeln(" <!--STORE BANNER //STARTS--> ");
 document.writeln(" <div id=\"banner-holder\"> ");
-document.writeln("<img src=\"http://i61.photobucket.com/albums/h76/Nimo18/TheWholeShebang_zpsmuzcczlp.jpg?t=1472515651\" width=\"994px\" height=\"\" />  ");
+document.writeln("<img src=\"http://i61.photobucket.com/albums/h76/Nimo18/TheWholeShebang_zpsmuzcczlp.jpg?t=1472515651\" width=\"1000px\" height=\"\" />  ");
 document.writeln(" 	 ");
 document.writeln(" </div> ");
 document.writeln(" <!--STORE BANNER //ENDS--> ");
