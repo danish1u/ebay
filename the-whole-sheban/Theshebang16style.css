@@ -13,7 +13,7 @@ body {
 	margin:0 auto;
 }
 .efusion-wrapcen {
-	width: 1045px;
+	width: 1000px;
 padding: 0;
 margin: 0 auto;
 text-align: center;
@@ -22,10 +22,10 @@ background-repeat: no-repeat;
 background-position: center top;
 background-color: #000;
 float: left;
-margin-left: 429px;
+margin-left: 452px;
 }
 .efusion-content {
-	width: 1045px;
+	width: 1000px;
 	margin:0 auto;
 	background-image: none;
 	padding:0;
@@ -751,7 +751,7 @@ ul#efusionmenu li a:hover {
 	margin: 7px;
 	display: inline-block;
 	float: left;
-	width: 240px;
+	width: 225px;
 	height:400px;
 	background-color:#FFF;
 
