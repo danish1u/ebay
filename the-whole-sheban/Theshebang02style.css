@@ -221,7 +221,7 @@ ul#efusionmenu li a:hover {
 	text-transform: uppercase;
 	text-indent:38px;
 	background-color:#ff002a;
-	background-image:url(../images/cat-icon.png);
+	background-image:url("http://www.efusionworld.com/estore/salmaqualitygold/store/images/cat-icon.png");
 	background-repeat:no-repeat;
 	background-position:10px center;
 }
@@ -308,7 +308,7 @@ ul#efusionmenu li a:hover {
 	margin: 0px;
 	background-color:#efefef;
 	border-bottom:none !important;
-	background-image:url(../images/cat-2-arrow.png);
+	background-image:url("http://www.efusionworld.com/estore/salmaqualitygold/store/images/cat-2-arrow.png");
 	background-repeat:no-repeat;
 	background-position:29px center;
 	overflow:hidden;
@@ -409,7 +409,7 @@ ul#efusionmenu li a:hover {
 	text-align:center;
 	margin: 0px;
 	padding:15px 0 0 0;
-	background-image:url(../images/left-payment.png);
+	background-image:url("http://medcraveonline.com/images/paypal_verified.jpg");
 	background-repeat:no-repeat;
 	background-position:center center;
 }
@@ -429,7 +429,7 @@ ul#efusionmenu li a:hover {
 	text-align:center;
 	margin: 0px;
 	padding:35px 0 0 0;
-	background-image:url(../images/thanks.png);
+	background-image:url("http://www.efusionworld.com/estore/salmaqualitygold/store/images/thanks.png");
 	background-repeat:no-repeat;
 	background-position:center center;
 }
