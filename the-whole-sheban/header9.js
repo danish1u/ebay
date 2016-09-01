@@ -49,7 +49,7 @@ document.writeln(" </div> ");
 document.writeln("  ");
 document.writeln(" <!--STORE BANNER //STARTS--> ");
 document.writeln(" <div id=\"banner-holder\"> ");
-document.writeln("<img src=\"http://i61.photobucket.com/albums/h76/Nimo18/TheWholeShebang_zpsmuzcczlp.jpg?t=1472515651\" width=\"1000px\" height=\"\" />  ");
+document.writeln("<img src=\"http://i61.photobucket.com/albums/h76/Nimo18/TheWholeShebang_zpsmuzcczlp.jpg?t=1472515651\" width=\"1045px\" height=\"\" />  ");
 document.writeln(" 	 ");
 document.writeln(" </div> ");
 document.writeln(" <!--STORE BANNER //ENDS--> ");
