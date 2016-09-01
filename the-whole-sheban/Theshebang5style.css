@@ -11,7 +11,6 @@ body {
 	width: 100%;
 	padding: 0px;
 	margin:0 auto;
-	
 }
 .efusion-wrapcen {
 	width: 100%;
@@ -30,9 +29,7 @@ body {
 	background-image: none;
 	padding:0;
 }
-.efusion-content tbody{
-	background: black;
-}
+
 #efusion-header {
 	width:1000px;
 	padding:0;
